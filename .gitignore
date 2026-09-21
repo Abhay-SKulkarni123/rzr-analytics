@@ -1,6 +1,5 @@
 # Data
 data/raw/
-data/processed/
 
 # Python
 __pycache__/
@@ -18,7 +17,3 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
-
-# Generated outputs
-outputs/
-reports/
