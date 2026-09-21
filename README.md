@@ -105,7 +105,7 @@ The assessment asks three core business questions.
 
 ## 4. Analysis Workflow
 
-### Notebook 01 — Data Foundation
+### Notebook 01 - Data Foundation
 
 `notebooks/01_data_foundation.ipynb`
 
@@ -117,7 +117,7 @@ The assessment asks three core business questions.
 - Summarizes the available lead outcome structure.
 - Documents important data-quality limitations before downstream analysis.
 
-### Notebook 02 — Quality Analysis
+### Notebook 02 - Quality Analysis
 
 `notebooks/02_quality_analysis.ipynb`
 
@@ -135,7 +135,7 @@ The assessment asks three core business questions.
   - State
 - Applies volume thresholds where appropriate to reduce overinterpretation of very small segments.
 
-### Notebook 03 — Opportunity Analysis
+### Notebook 03 - Opportunity Analysis
 
 `notebooks/03_opportunity_analysis.ipynb`
 
@@ -147,7 +147,7 @@ The assessment asks three core business questions.
 - Translates historical segment differences into practical testing opportunities.
 - Separates scenario analysis from causal claims.
 
-### Notebook 04 — Final Case Study
+### Notebook 04 - Final Case Study
 
 `notebooks/04_final_case_study.ipynb`
 
